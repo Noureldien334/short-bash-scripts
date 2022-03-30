@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#Sending notifications of Internet usage
+
+TODAY=$(vnstat | grep today);
+
+YESTERDAY=$(vnstat | grep yesterday);
+
+notify-send Yesterday "$YESTERDAY";
+notify-send  Today    "$TODAY"; 
+
