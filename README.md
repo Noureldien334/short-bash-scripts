@@ -1,5 +1,5 @@
 # My-linux-short-scripts
 | Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| ---  | --- |
+| data | Internet usage          |
+| open | same as firefox command |
