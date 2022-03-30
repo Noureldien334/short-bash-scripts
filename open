@@ -1,7 +1,0 @@
-#!/bin/bash
-
-site=$1;
-
-link="$1.com";
-
-firefox $link;
