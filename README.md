@@ -3,3 +3,4 @@
 | ---  | --- |
 | data | Internet usage          |
 | open | same as firefox command |
+| crontab | scheduling |
