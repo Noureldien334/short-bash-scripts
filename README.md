@@ -1,7 +1,6 @@
-# My-linux-short-scripts
+# Short bash scripts
 | Command | Description |
 | ---  | --- |
-| data | Internet usage          |
-| open | same as firefox command |
+| data | Displays Internet usage          |
 | crontab | scheduling |
 | cwords  | gets number of lines for files in a directory |
