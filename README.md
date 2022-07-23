@@ -5,4 +5,4 @@
 | ---  | --- |
 | data | Displays Internet usage          |
 | crontab | scheduling |
-| cwords  | gets number of lines for files in a directory |
+| cwords  | gets number of lines of text files in a directory |
