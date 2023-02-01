@@ -5,3 +5,9 @@
 #Mv pdf files into pdf directory 
 * 6 * * 4 find ~/Downloads -maxdepth 1 -iname '*.pdf' -exec mv -t ~/Downloads/pdf '{}' \;
 
+#Mv images files into image directory 
+* 6 * * 4 find ~/Downloads -maxdepth 1 -iname '*.jpg' -exec mv -t ~/Downloads/Images '{}' \;
+
+#Mv mp4 files into videos directory 
+ * 6 * * 4 find ~/Downloads -maxdepth 1 -iname '*.mp4' -exec mv -t ~/Downloads/Videos '{}' \;
+
